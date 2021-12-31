@@ -1,7 +1,17 @@
-library("MASS")
-library(dplyr)
+#==========================
+#                         |
+#       Pie Charts        |
+#                         |
+#==========================
+
+# 12/31/2021
+
+# clear workspace
+rm(list=ls())
+dev.off()
+cat("\014")
+
 library(ggplot2)
-library(scales)
 
 setwd("C:/Users/scott/OneDrive/Documents/Freedom Health/studies/meta-analysis/")
 getwd()

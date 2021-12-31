@@ -1,8 +1,12 @@
-library("MASS")
-library(dplyr)
+#==========================
+#                         |
+#        Bar Chart        |
+#                         |
+#==========================
+
+# 12/31/2021
+
 library(ggplot2)
-library(scales)
-library(reshape)
 
 setwd("C:/Users/scott/OneDrive/Documents/Freedom Health/studies/meta-analysis/")
 getwd()
